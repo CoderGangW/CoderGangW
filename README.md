@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm [여기에 사용자 이름 입력]! 👋
+# Hi there, I'm [U Known]! 👋
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -48,9 +48,9 @@
   <!-- GitHub Readme Stats 사용 예시 (username을 본인 것으로 변경) -->
   <!-- 1. GitHub 사용자 이름을 YOUR_GITHUB_USERNAME 자리에 넣어주세요. -->
   <!-- 2. 테마는 'radical' 외에도 다양하게 변경 가능합니다. (예: 'tokyonight', 'gruvbox', 'dracula' 등) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=radical&rank_icon=github" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=[CoderGangW]&show_icons=true&theme=radical&rank_icon=github" alt="GitHub Stats"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[CoderGangW]&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
 ---
