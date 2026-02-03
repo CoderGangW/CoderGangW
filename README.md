@@ -1,8 +1,6 @@
 <div align="center">
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:8A2BE2,100:4B0082&height=200&section=header&text=U`Known&fontSize=90&fontColor=ffffff&stroke=8A2BE2&strokeWidth=3"/>
-</div>
+[![SVG Banners](https://svg-banners.vercel.app/api?type=rainbow&text1=U`Known&width=800&height=200)](https://github.com/Akshay090/svg-banners)
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
