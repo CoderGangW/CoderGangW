@@ -21,64 +21,32 @@
 
 <br/>
 
-<!-- ═══════════════════ ABOUT ═══════════════════ -->
-## 🚀 About Me
-
-```typescript
-const uknown = {
-  role: "Full-Stack Developer",
-  location: "Republic of Korea",
-  languages: ["TypeScript", "JavaScript", "Python", "Dart", "SQL"],
-  currentFocus: "Web x App x Robotics x AI",
-  funFact: "사람과 공존하는 시스템을 만드는 걸 좋아합니다",
-};
-```
-
-<br/>
-
-<!-- ═══════════════════ TECH STACK ═══════════════════ -->
-## ⚡ Tech Stack
-
-<div align="center">
-
-### 💻 Languages
-<img src="https://skillicons.dev/icons?i=ts,js,python,dart,mysql,html,css&theme=dark" />
-
-### 🛠️ Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=nextjs,express,tailwind,flutter&theme=dark" />
-<br/>
-<img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=fff"/>
-<img src="https://img.shields.io/badge/Ant%20Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=fff"/>
-
-### ☁️ Cloud & Deployment
-<img src="https://skillicons.dev/icons?i=vercel,firebase&theme=dark" />
-
-### ⚙️ Tools
-<img src="https://skillicons.dev/icons?i=nodejs,docker,vscode,postman,figma,git,github&theme=dark" />
-<br/>
-<img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=fff"/>
-<img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=000"/>
-<img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=fff"/>
-
-</div>
-
-<br/>
-
 <!-- ═══════════════════ STATS ═══════════════════ -->
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=CoderGangW&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&rank_icon=github" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderGangW&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="165"/>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=CoderGangW&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&rank_icon=github&include_all_commits=true" height="170"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderGangW&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" height="170"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://streak-stats.demolab.com?user=CoderGangW&theme=tokyonight&hide_border=true&background=0d1117&ring=8A7DFF&fire=8A7DFF&currStreakLabel=8A7DFF" height="170"/>
+    </td>
+  </tr>
+</table>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CoderGangW&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=8A7DFF&line=8A7DFF&point=ffffff&area=true" width="95%"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=CoderGangW&theme=tokyonight&hide_border=true&background=0d1117" height="170"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=CoderGangW&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=CoderGangW&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=10" width="95%"/>
 
 </div>
 
@@ -89,25 +57,40 @@ const uknown = {
 
 <table align="center">
   <tr>
-    <td width="50%" align="center">
+    <td width="50%" align="center" valign="top">
       <h3>🏭 미니 스마트팩토리</h3>
-      <p>사람의 개입이 필요 없는<br/>완전 자동화 미니 스마트 팩토리 시스템</p>
+      <p><i>사람의 개입이 필요 없는<br/>완전 자동화 미니 스마트 팩토리 시스템</i></p>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=fff"/>
+        <img src="https://img.shields.io/badge/IoT-8A7DFF?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Automation-4CAF50?style=flat-square"/>
+      </p>
       <a href="https://github.com/CoderGangW/FusionProject">
-        <img src="https://img.shields.io/badge/App%20Code-181717?style=for-the-badge&logo=github&logoColor=fff"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CoderGangW&repo=FusionProject&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
       </a>
     </td>
-    <td width="50%" align="center">
+    <td width="50%" align="center" valign="top">
       <h3>🤖 해실이 (CareBot)</h3>
-      <p>요양시설에서 사용 가능한<br/>자율주행 도우미 로봇</p>
+      <p><i>요양시설에서 사용 가능한<br/>자율주행 도우미 로봇</i></p>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=fff"/>
+        <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=fff"/>
+        <img src="https://img.shields.io/badge/Robotics-FF6C37?style=flat-square"/>
+      </p>
       <a href="https://github.com/CoderGangW/CareBot">
-        <img src="https://img.shields.io/badge/App%20Code-181717?style=for-the-badge&logo=github&logoColor=fff"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CoderGangW&repo=CareBot&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
       </a>
+      <br/>
       <a href="https://github.com/CoderGangW/HaesilRos">
-        <img src="https://img.shields.io/badge/ROS%20Code-22314E?style=for-the-badge&logo=ros&logoColor=fff"/>
+        <img src="https://img.shields.io/badge/+%20ROS%20Code%20(HaesilRos)-22314E?style=for-the-badge&logo=ros&logoColor=fff"/>
       </a>
     </td>
   </tr>
 </table>
+
+<div align="center">
+
+</div>
 
 <br/>
 
@@ -116,6 +99,7 @@ const uknown = {
 
 <div align="center">
 
+<a href="https://uknown.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-uknown.dev-8A7DFF?style=for-the-badge&logo=googlechrome&logoColor=fff"/></a>
 <a href="mailto:dbsdnjs002@gmail.com"><img src="https://img.shields.io/badge/dbsdnjs002@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=fff"/></a>
 <a href="https://velog.io/@dbsdnjs002/posts" target="_blank"><img src="https://img.shields.io/badge/Velog%20Blog-20C997?style=for-the-badge&logo=velog&logoColor=fff"/></a>
 
