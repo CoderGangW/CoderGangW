@@ -21,32 +21,39 @@
 
 <br/>
 
-<!-- ═══════════════════ STATS ═══════════════════ -->
-## 📊 GitHub Stats
+<!-- ═══════════════════ TECH STACK ═══════════════════ -->
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=CoderGangW&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&rank_icon=github&include_all_commits=true" height="170"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderGangW&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" height="170"/>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://streak-stats.demolab.com?user=CoderGangW&theme=tokyonight&hide_border=true&background=0d1117&ring=8A7DFF&fire=8A7DFF&currStreakLabel=8A7DFF" height="170"/>
-    </td>
-  </tr>
-</table>
+### 💻 Languages
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=fff"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=CoderGangW&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=8A7DFF&line=8A7DFF&point=ffffff&area=true" width="95%"/>
+### 📱 App & Web
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=fff"/>
+<img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=fff"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=fff"/>
 
-<br/><br/>
+### 🤖 Robotics & AI
+<img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=fff"/>
+<img src="https://img.shields.io/badge/llama.cpp-8A7DFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/vLLM-FF6C37?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=CoderGangW&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=10" width="95%"/>
+### ☁️ Infra & DevOps
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff"/>
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=fff"/>
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=fff"/>
+<img src="https://img.shields.io/badge/Caddy-1F88C0?style=for-the-badge&logo=caddy&logoColor=fff"/>
+<img src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=fff"/>
+
+### 🧰 Environment
+<img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=fff"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff"/>
 
 </div>
 
@@ -66,7 +73,7 @@
         <img src="https://img.shields.io/badge/Automation-4CAF50?style=flat-square"/>
       </p>
       <a href="https://github.com/CoderGangW/FusionProject">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CoderGangW&repo=FusionProject&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+        <img src="https://img.shields.io/badge/📦%20FusionProject-View%20Repo-8A7DFF?style=for-the-badge&logo=github&logoColor=fff"/>
       </a>
     </td>
     <td width="50%" align="center" valign="top">
@@ -78,19 +85,15 @@
         <img src="https://img.shields.io/badge/Robotics-FF6C37?style=flat-square"/>
       </p>
       <a href="https://github.com/CoderGangW/CareBot">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CoderGangW&repo=CareBot&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+        <img src="https://img.shields.io/badge/📦%20CareBot-View%20Repo-8A7DFF?style=for-the-badge&logo=github&logoColor=fff"/>
       </a>
-      <br/>
+      <br/><br/>
       <a href="https://github.com/CoderGangW/HaesilRos">
         <img src="https://img.shields.io/badge/+%20ROS%20Code%20(HaesilRos)-22314E?style=for-the-badge&logo=ros&logoColor=fff"/>
       </a>
     </td>
   </tr>
 </table>
-
-<div align="center">
-
-</div>
 
 <br/>
 
